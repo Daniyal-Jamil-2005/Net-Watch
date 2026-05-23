@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/flutter-logo.svg" height="80">
-  <h1>NetWatch 🛡️</h1>
+<img width="1470" height="980" alt="Netwatch logo" src="https://github.com/user-attachments/assets/de516b42-98ae-4e7a-9d18-6f3a1995a402" />
+
+  <h1>NetWatch </h1>
   <p>Next-Generation Local Network Intelligence</p>
 </div>
 
