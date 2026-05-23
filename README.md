@@ -1,17 +1,6 @@
 <div align="center">
-<img src="./Netwatch Showcase/Landing page.jpeg" width="200" alt="Landing Page">
-<br/>Landing Page
-<td align="center">
-<img src="./Netwatch Showcase/Device Discovery.jpeg" width="200" alt="Device Discovery">
-<br/>Device Discovery
-</td>
-<td align="center">
-<img src="./Netwatch Showcase/benefits.jpeg" width="200" alt="Benefits">
-<br/>Features Overview
-</td>
-</tr>
-<tr>
-  <h1>NetWatch </h1>
+  <img src="https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/flutter-logo.svg" height="80">
+  <h1>NetWatch 🛡️</h1>
   <p>Next-Generation Local Network Intelligence</p>
 </div>
 
@@ -52,6 +41,21 @@ NetWatch breaks free from Flutter's native boundaries by leveraging a specialize
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center">
+<img src="./Netwatch Showcase/Landing page.jpeg" width="200" alt="Landing Page">
+<br/>Landing Page
+</td>
+<td align="center">
+<img src="./Netwatch Showcase/Device Discovery.jpeg" width="200" alt="Device Discovery">
+<br/>Device Discovery
+</td>
+<td align="center">
+<img src="./Netwatch Showcase/benefits.jpeg" width="200" alt="Benefits">
+<br/>Features Overview
+</td>
+</tr>
 <tr>
 <td align="center">
 <img src="./Netwatch Showcase/Screenshot_20260510-051513.jpg.jpeg" width="200" alt="Screenshot 1">
