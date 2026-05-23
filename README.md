@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/flutter-logo.svg" height="80">
-  <h1>NetWatch 🛡️</h1>
+
+<img src="./Netwatch Showcase/Landing page.jpeg" width="200" alt="Landing Page">
+<br/>Landing Page
+
+  <h1>NetWatch </h1>
   <p>Next-Generation Local Network Intelligence</p>
 </div>
 
@@ -43,10 +47,7 @@ NetWatch breaks free from Flutter's native boundaries by leveraging a specialize
 
 <table>
 <tr>
-<td align="center">
-<img src="./Netwatch Showcase/Landing page.jpeg" width="200" alt="Landing Page">
-<br/>Landing Page
-</td>
+
 <td align="center">
 <img src="./Netwatch Showcase/Device Discovery.jpeg" width="200" alt="Device Discovery">
 <br/>Device Discovery
